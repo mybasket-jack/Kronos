@@ -326,6 +326,9 @@ If you use Kronos in your research, we would appreciate a citation to our [paper
 ## 📜 License 
 This project is licensed under the [MIT License](./LICENSE).
 
+cd e:\workspace\python\my-market\kronos-server
+.\venv\Scripts\python -m uvicorn main:app --host 0.0.0.0 --port 8001
+
 
 
 
